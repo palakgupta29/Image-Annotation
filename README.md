@@ -30,10 +30,9 @@ A simple and interactive **Image Annotation Tool** built with **Python** and **O
 Image-Annotation/
 │
 ├── annotation.ipynb      # Main notebook
-├── images/               # Input images (optional)
-├── annotations/          # Saved annotations (optional)
+├── dataset/images        # Input images (optional)
+├── dataset/labels        # Saved annotations (optional)
 ├── README.md
-└── requirements.txt
 ```
 
 ---
